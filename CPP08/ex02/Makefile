@@ -6,13 +6,13 @@
 #    By: lbusi <lbusi@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/10 16:01:27 by lbusi             #+#    #+#              #
-#    Updated: 2023/12/13 19:15:19 by lbusi            ###   ########.fr        #
+#    Updated: 2023/12/14 16:57:13 by lbusi            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = Span
+NAME = MutantStack
 
-SRCS = main.cpp Span.cpp
+SRCS = main.cpp
 
 CC = c++
 
